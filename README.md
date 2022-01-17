@@ -42,3 +42,16 @@ npm install normalize.css
 - import 'normalize.css' in index.js
 - SET BEFORE 'index.css'
 - replace contents of index.css
+
+#### Landing Page
+
+- for now Landing.js
+- create component (snippets extension)
+- setup basic return
+
+```js
+<h4>Landing Page<h4>
+```
+
+- import logo.svg and main.svg
+- import Landing in App.js and render
